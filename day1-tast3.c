@@ -1,4 +1,5 @@
 // Code to Check number is prime or not
+
 #include <stdio.h>
 int main(){
     int n,flag = 0;

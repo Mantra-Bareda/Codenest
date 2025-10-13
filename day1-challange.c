@@ -2,7 +2,6 @@
 //eg :- 145 --> 1!+4!+5! = 145 , 145--> strong number
 
 #include <stdio.h>
-
 int main(){
     
     int n,n2,x,fact,sum=0;
